@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi-nath
+- 👋 Hello from @abhi-nath (@rsabhi)
 - 👀 I’m interested in java, c, c++, python
 - 🌱 I’m currently learning python and node.js
 - 💞️ I’m looking to collaborate on projects where I can contribute and learn from other dev's
